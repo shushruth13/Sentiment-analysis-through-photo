@@ -1,0 +1,11 @@
+gradio==3.50.2
+opencv-python-headless==4.8.1.78
+numpy==1.23.5
+matplotlib==3.7.2
+pandas==2.0.3
+fer==22.5.1
+tensorflow-cpu==2.12.0
+Pillow==10.0.0
+soundfile==0.12.1
+moviepy==1.0.3
+mediapipe==0.10.21 
